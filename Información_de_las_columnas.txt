@@ -1,0 +1,51 @@
+ID
+    Identificación del usuario - Cliente
+
+Edad
+    Edad del usuario 
+
+Fecha_de_salario
+
+    Con qué frecuencia se les paga a los solicitantes
+
+Dueño_de_casa
+    0 = Vivienda alquilada
+    1 = Propietario
+
+Ingreso 
+    Ingresos del solicitante
+
+Meses_trabajados
+    Cuantos meses lleva haciendo trabajo
+
+Años_trabajados
+    Cuantos años lleva haciendo trabajo 
+
+Años_en_vivienda_actual
+    Cuántos años se quedó una persona en la dirección actual
+
+Cuenta_personal_meses
+    Cuantos meses tiene esa persona una cuenta personal
+
+Cuenta_personal_años
+    Cuantos meses tiene esa persona una cuenta personal 
+
+Tiene_deuda
+    La persona tiene alguna deuda o no.
+
+Cantidad_solicitada
+    El usuario decidió solicitar
+
+risk_score 1 al 5 
+    Quien sabe
+
+ext-quality_score 1 al 2 
+    Quien sabe
+
+consultas_el_mes_pasado
+    Cuantas consultas ha tenido el usuario en los últimos meses
+
+Firma_electronica
+    Columna objetivo 
+    1: Proceso de firma electrónica completado
+     0: No completado el proceso de firma electrónica
