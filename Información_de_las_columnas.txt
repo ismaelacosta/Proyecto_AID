@@ -4,30 +4,29 @@ ID
 Edad
     Edad del usuario 
 
-Fecha_de_salario
-
+Tipo_de_salario
     Con qué frecuencia se les paga a los solicitantes
 
-Dueño_de_casa
+Vivienda_propia
     0 = Vivienda alquilada
     1 = Propietario
 
 Ingreso 
     Ingresos del solicitante
 
-Meses_trabajados
+Tiempo_trabajado(meses)
     Cuantos meses lleva haciendo trabajo
 
-Años_trabajados
+Tiempo_trabajado(años)
     Cuantos años lleva haciendo trabajo 
 
-Años_en_vivienda_actual
+Tiempo_en_vivienda_actual(años)
     Cuántos años se quedó una persona en la dirección actual
 
-Cuenta_personal_meses
+Tiempo_cuenta_personal(meses)
     Cuantos meses tiene esa persona una cuenta personal
 
-Cuenta_personal_años
+Tiempo_cuenta_personal(años)
     Cuantos meses tiene esa persona una cuenta personal 
 
 Tiene_deuda
@@ -36,7 +35,7 @@ Tiene_deuda
 Cantidad_solicitada
     El usuario decidió solicitar
 
-risk_score 1 al 5 
+Puntuación_de_riesgo 1 al 5 
     Quien sabe
 
 ext-quality_score 1 al 2 
@@ -45,7 +44,7 @@ ext-quality_score 1 al 2
 consultas_el_mes_pasado
     Cuantas consultas ha tenido el usuario en los últimos meses
 
-Firma_electronica
+Proceso_firma_electronica_completado
     Columna objetivo 
     1: Proceso de firma electrónica completado
      0: No completado el proceso de firma electrónica
