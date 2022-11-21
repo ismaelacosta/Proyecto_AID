@@ -1,1 +1,4 @@
+Abran la consola de anaconda y ejecuten el comando 
+
+
 conda install -c conda-forge pyod
