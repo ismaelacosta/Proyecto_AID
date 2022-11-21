@@ -35,10 +35,10 @@ Tiene_deuda
 Cantidad_solicitada
     El usuario decidió solicitar
 
-Puntuación_de_riesgo 1 al 5 
+Puntuación_de_riesgo (Columnas de la 1 a la 5) 
     Quien sabe
 
-ext-quality_score 1 al 2 
+ext-quality_score (Columnas de la 1 a la 2) 
     Quien sabe
 
 consultas_el_mes_pasado
